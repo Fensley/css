@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background-color: rgb(147, 176, 95);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+
+}
+
+.container{
+    background-color: rgba(0,0,0,0.55);
+    padding: 40px;
+    border-radius: 5px;
+    height: 50vh;
+    width: 30vh;
+}
+
